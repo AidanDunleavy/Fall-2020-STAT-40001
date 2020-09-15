@@ -2,4 +2,4 @@ TypesOfHousing 	Frequency
 Apartment 	20 
 Dorm 	15 
 House 	9 
-Sorority/Fraternity House 	5 
+Sorority/FraternityHouse 	5 
