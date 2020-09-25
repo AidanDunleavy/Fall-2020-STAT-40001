@@ -1,0 +1,8 @@
+Country Amount($)
+United.Kingdom 1992
+Czech.Republic 1106
+Italy 2212
+Germany 2808
+France 2561
+Canada 2792
+U.S. 4887
