@@ -1,4 +1,4 @@
-Student                 Score		         #_of_hours/Week
+Student                 Score                 num.hours/Week
 Andrea			63				3
 Ben			79				11
 Randy			53				8
